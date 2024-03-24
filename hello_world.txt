@@ -1,0 +1,1 @@
+Bon je devrais pouvoir le sauver sur git facilement en utilisant la cmd git add, je chech le git statuts puis je git add le mot en rouge
